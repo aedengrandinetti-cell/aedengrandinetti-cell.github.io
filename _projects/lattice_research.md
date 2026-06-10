@@ -4,7 +4,7 @@ title: Vascularization Lattice Research
 description: Scaffold design for artificial vascular dialysis access grafts
 img: assets/img/lattice_product_truncated_octahedron.jpg
 importance: 1
-category: research
+category: work
 ---
 
 <div class="row">
