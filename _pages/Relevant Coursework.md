@@ -14,18 +14,21 @@ nav_order: 4
 
 ## Chemistry
 - **CHEM 142, 152, 162** — General Chemistry I, II, III with associated laboratory sections
+- **CHEM 237** — Organic Chemistry I *(currently enrolled; planning to complete 238, 239, 241, and 242)*
+- *Planning to take **BIOC 405** — Introductory Biochemistry*
 
 ## Materials Science & Engineering Core
 - **MSE 311, 312, 313** — Materials Science Laboratory Series
   - Tensile, compressive, and stress testing with Instron machine
   - Charpy impact testing for ductile-to-brittle transition temperatures
-  - Microstructural analysis with SEM and EDX
-  - Hydrogel synthesis and grain boundary analysis with optical microscopy
+  - Microstructural and grain boundary analysis with SEM, EDX, and optical microscopy
+  - Hydrogel synthesis
   - YBCO superconductor synthesis
   - Crystal growth by precipitation from supersaturated solution
   - Molten aluminum casting
-  - Cold rolling and graphene fabrication via scotch tape method
-  - Twistronics with PDMA stamp and thermal processing
+  - Cold rolling
+  - Graphene fabrication via scotch tape method
+  - Twistronics with PDMS stamp and thermal processing
   - Transistor breakdown and Zener diode reverse bias characterization
 
 - **MSE 321** — Thermodynamics of Materials: Gibbs free energy, phase diagrams
@@ -38,6 +41,7 @@ nav_order: 4
 
 ## Bioengineering & Life Sciences
 - **BIOEN 215** — Entrepreneurial Introduction to Bioengineering
+- **BIOL 180** — Introductory Biology I *(currently enrolled; planning to complete BIOL 200 and 220 with associated labs)*
 - **Biology Series** — Completed full introductory biology sequence (prior institution)
 
 ## Computing
