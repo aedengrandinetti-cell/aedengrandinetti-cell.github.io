@@ -5,6 +5,7 @@ description: Design and construction of a solar oven with engineering team at th
 img: assets/img/solar_oven_team.png
 importance: 3
 category: engineering
+published: true
 ---
 
 At the college that I attended before I was diagnosed with kidney disease and underwent dialysis and subsequent transplant, I designed and built a solar oven with my engineering team. This was at the University of Arizona, so it was very sunny outside every day — perfect for this kind of build.
