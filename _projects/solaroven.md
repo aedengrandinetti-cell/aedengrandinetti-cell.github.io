@@ -2,7 +2,7 @@
 layout: page
 title: Solar Oven
 description: Design and construction of a solar oven with engineering team at the University of Arizona
-img: assets/img/solar_oven_team.jpg
+img: assets/img/solar_oven_team.jpeg
 importance: 3
 category: work
 ---
@@ -31,6 +31,6 @@ The internal temperature reached a maximum of 180 degrees Celsius — we achieve
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/solar_oven_team.jpg" title="Solar oven team" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/solar_oven_team.jpeg" title="Solar oven team" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
