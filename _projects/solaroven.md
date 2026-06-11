@@ -2,7 +2,7 @@
 layout: page
 title: Solar Oven
 description: Design and construction of a solar oven with engineering team at the University of Arizona
-img: assets/img/solar_oven_team.png
+img: assets/img/solar_oven_team.jpg
 importance: 3
 category: work
 ---
