@@ -23,7 +23,7 @@ During the testing phase, we used a thermometer issued by our engineering profes
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/thermometer.jpg" title="Temperature tracking during testing" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/thermometer.jpeg" title="Temperature tracking during testing" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 
