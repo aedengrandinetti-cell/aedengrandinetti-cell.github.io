@@ -4,7 +4,7 @@ title: Ratner Lab Projects
 description: Polymer blend research and scaffold design for vascular dialysis access grafts
 img: assets/img/ratner_group_photo.png
 importance: 2
-category: research
+category: work
 ---
 
 For the Ratner Lab, I researched polymer combinations to combine with different print geometries to hopefully continue pursuing the work of a previous PhD student in microporous scaffolds for dialysis access grafts. To do this, I used biocompatible polymers such as EGDMA, TPTMA, and HEMA, as well as the photoinitiator for cross-linking TPO, and the photoabsorber/light stabilizer BLS. Experimenting with different combinations and mass percentages of the polymers, I would create a standard 30g blend of each formulation and then "bake" some amount of them placed inside of a petri dish in a UV oven.
