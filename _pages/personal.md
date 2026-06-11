@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
-description: members of the lab or group
+title: Personal Information
+description: A bit about who I am outside of engineering and research :)
 nav: true
 nav_order: 7
 
