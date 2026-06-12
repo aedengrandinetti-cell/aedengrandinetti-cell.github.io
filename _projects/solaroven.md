@@ -7,7 +7,7 @@ importance: 3
 category: work
 ---
 
-At the college that I attended before I was diagnosed with kidney disease and underwent dialysis and subsequent transplant, I designed and built a solar oven with my engineering team. This was at the University of Arizona, so it was very sunny outside every day — perfect for this kind of build.
+At the college that I attended before I was diagnosed with kidney disease (The University of Arizona) and underwent dialysis and subsequent transplant, I designed and built a solar oven with my engineering team. Being in Arizona, it was very sunny outside every day — perfect for this kind of build.
 
 We started with design calculations, things like figuring out the optimal oven size and the angle of our box opening that would be designed to catch and funnel the light into the oven's center. We decided on materials to use, worked through a list of different reflective and insulating materials, and eventually settled on using aluminum foil for the reflective layering that would be refracting the light into the oven, and newspaper as the insulation material.
 
