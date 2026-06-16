@@ -6,7 +6,7 @@ subtitle: Junior · Materials Science Engineering · University of Washington
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: updated_prof.JPEG
   image_circular: false
 
 selected_papers: false
