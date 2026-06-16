@@ -1,0 +1,119 @@
+{
+  "basics": {
+    "name": "Aeden Grandinetti",
+    "email": "aedeng16@uw.edu",
+    "phone": "(509) 581-7780",
+    "location": { "city": "Seattle", "region": "WA" },
+    "url": "https://aedengrandinetti-cell.github.io"
+  },
+  "education": [
+    {
+      "institution": "University of Washington, Seattle",
+      "area": "Materials Science and Engineering",
+      "studyType": "Bachelor of Science",
+      "endDate": "2027-06",
+      "score": "3.55",
+      "courses": ["Pre-Medical track", "Concentration in biomaterials and bioengineering"]
+    }
+  ],
+  "work": [
+    {
+      "name": "Starbucks",
+      "location": "Kennewick, WA",
+      "position": "Barista",
+      "startDate": "2023-05",
+      "endDate": "2023-10",
+      "highlights": [
+        "Developed experience handling food in compliance with safety regulations while managing solo-staff shifts, consistently delivering quality beverages within short wait times."
+      ]
+    },
+    {
+      "name": "Bella Italia Restaurant",
+      "location": "Kennewick, WA",
+      "position": "Waiter & Busser",
+      "startDate": "2021-11",
+      "endDate": "2022-08",
+      "highlights": [
+        "Developed customer service and hospitality skills across front-of-house roles including serving, bussing, and reservations; built adaptability by quickly learning new assignments on the fly and thriving in a fast-paced team environment."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Buddy Ratner Biomaterials Research Laboratory, UW Seattle",
+      "position": "Undergraduate Research Assistant",
+      "startDate": "2025-05",
+      "summary": "Research in scaffold design for vascular tissue engineering.",
+      "highlights": [
+        "Training to operate a Kloé Dilase SLA 3D printer; prepare PDMS and photoreactive resin vats, run sensitivity tests, and print microscopic structures for bioengineering research.",
+        "Formulating novel printable biocompatible resins using photopolymerization of biopolymeric materials; troubleshoot material property challenges with iterative design.",
+        "Design 40-micron porous lattice microstructures in Onshape (truncated octahedron, rhombic dodecahedron, gyroid); collaborate with PhD students and faculty on printability and functional design.",
+        "Learning parametric modelling to increase scaffold design capabilities for vascularization research and arterial graft compliance."
+      ]
+    },
+    {
+      "organization": "Bioengineers Without Borders, UW Seattle",
+      "position": "Engineering Design Member",
+      "startDate": "2024-10",
+      "highlights": [
+        "Design and execute materials strength tests for a transtibial amputation prosthetic for pediatric patients; interpret results against international ISO standards.",
+        "Create CAD prototypes and 3D-printed PLA testing setups for the prototyping sub-team.",
+        "Navigated funding constraints to meet all required test specifications; contributed to HIC competition submission.",
+        "Support the business and project-management side of engineering in addition to technical work."
+      ]
+    },
+    {
+      "organization": "Virginia Mason Medical Center – Vascular Surgery",
+      "location": "Seattle, WA",
+      "position": "Clinical Volunteer",
+      "startDate": "2025-10",
+      "highlights": [
+        "Provide direct patient interaction in an active clinical environment; assist with patient transport and prioritize genuine human connection beyond task-based care.",
+        "Follow PPE and infection-control protocols including room sanitization; completed code response training."
+      ]
+    },
+    {
+      "organization": "Shadowing Nephrologist – Nephrology & Transplant",
+      "location": "Seattle, WA",
+      "position": "Clinical Observer",
+      "startDate": "2026-02",
+      "highlights": [
+        "Observe transplant evaluations, rounding, and direct patient care in the ICU and dialysis clinic from the provider perspective.",
+        "Bring an informed patient lens as a kidney transplant recipient, deepening understanding of care for patients with ESRD and CKD.",
+        "Reading complex literature on kidney transplant immunology and clinical pathophysiology of renal disorders."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Wet Laboratory",
+      "keywords": ["SLA photopolymerization", "biocompatible polymer synthesis", "biopolymeric resin formulation", "sterile technique", "solution preparation", "cell culturing in agars", "micropipetting"]
+    },
+    {
+      "name": "CAD & Additive Manufacturing",
+      "keywords": ["Onshape (lattice and parametric modelling)", "SLA 3D printing (PDMS and resin)", "Arduino circuit design"]
+    },
+    {
+      "name": "Programming & Computing",
+      "keywords": ["C", "Java", "Microsoft Office Suite"]
+    },
+    {
+      "name": "Clinical",
+      "keywords": ["Clinical terminology", "patient transport", "PPE protocols", "room preparation and sanitization"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Team Captain – Science Olympiad",
+      "date": "2021-09",
+      "awarder": "Tri-Cities Preparatory High School, Pasco, WA",
+      "summary": "Led a STEM team managing coaching, meetings, club organization, and faculty communication. Designed and built engineering devices including an Arduino-based thermometer/salinometer and a complex launching mechanism."
+    }
+  ],
+  "interests": [
+    {
+      "name": "Judo",
+      "keywords": ["Mental focus under pressure", "respectful competition", "Seattle WA, Sep 2025–Present"]
+    }
+  ]
+}
