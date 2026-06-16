@@ -1,221 +1,119 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "einstein@example.com",
-    "phone": "(912) 123-4567",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": []
+    "name": "Aeden Grandinetti",
+    "email": "aedeng16@uw.edu",
+    "phone": "(509) 581-7780",
+    "location": { "city": "Seattle", "region": "WA" },
+    "url": "https://aedengrandinetti-cell.github.io"
   },
+  "education": [
+    {
+      "institution": "University of Washington, Seattle",
+      "area": "Materials Science and Engineering",
+      "studyType": "Bachelor of Science",
+      "endDate": "2027-06",
+      "score": "3.55",
+      "courses": ["Pre-Medical track", "Concentration in biomaterials and bioengineering"]
+    }
+  ],
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Princeton University, NJ",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity", "Description 2."]
+      "name": "Starbucks",
+      "location": "Kennewick, WA",
+      "position": "Barista",
+      "startDate": "2023-05",
+      "endDate": "2023-10",
+      "highlights": [
+        "Developed experience handling food in compliance with safety regulations while managing solo-staff shifts, consistently delivering quality beverages within short wait times."
+      ]
     },
     {
-      "name": "California Institute of Technology",
-      "position": "Visiting Professor",
-      "location": "Pasadena, California, US",
-      "startDate": "1933-01-01",
-      "endDate": "1933-01-01",
-      "summary": "",
-      "highlights": ["Description 1.", "Description 2."]
-    },
-    {
-      "name": "Kaiser Wilhelm Institute for Physics",
-      "position": "Director",
-      "location": "Berlin, Germany",
-      "startDate": "1917-01-01",
-      "endDate": "1933-01-01",
-      "summary": "",
-      "highlights": []
-    },
-    {
-      "name": "Karl-Ferdinand University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Prague, Czechoslovakia",
-      "startDate": "1911-01-01",
-      "endDate": "1917-01-01",
-      "summary": "",
-      "highlights": []
-    },
-    {
-      "name": "University of Zurich",
-      "position": "Associate Professor of Theoretical Physics",
-      "location": "Zurich, Switzerland",
-      "startDate": "1909-01-01",
-      "endDate": "1911-01-01",
-      "summary": "",
-      "highlights": []
+      "name": "Bella Italia Restaurant",
+      "location": "Kennewick, WA",
+      "position": "Waiter & Busser",
+      "startDate": "2021-11",
+      "endDate": "2022-08",
+      "highlights": [
+        "Developed customer service and hospitality skills across front-of-house roles including serving, bussing, and reservations; built adaptability by quickly learning new assignments on the fly and thriving in a fast-paced team environment."
+      ]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Zurich",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Physics",
-      "studyType": "PhD",
-      "startDate": "1900-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": ["Theory of Relativity"],
-      "highlights": ["Description 1.", "Description 2."]
+      "organization": "Buddy Ratner Biomaterials Research Laboratory, UW Seattle",
+      "position": "Undergraduate Research Assistant",
+      "startDate": "2025-05",
+      "summary": "Research in scaffold design for vascular tissue engineering.",
+      "highlights": [
+        "Training to operate a Kloé Dilase SLA 3D printer; prepare PDMS and photoreactive resin vats, run sensitivity tests, and print microscopic structures for bioengineering research.",
+        "Formulating novel printable biocompatible resins using photopolymerization of biopolymeric materials; troubleshoot material property challenges with iterative design.",
+        "Design 40-micron porous lattice microstructures in Onshape (truncated octahedron, rhombic dodecahedron, gyroid); collaborate with PhD students and faculty on printability and functional design.",
+        "Learning parametric modelling to increase scaffold design capabilities for vascularization research and arterial graft compliance."
+      ]
     },
     {
-      "institution": "Eidgenössische Technische Hochschule",
-      "location": "Zurich, Switzerland",
-      "area": "Physics",
-      "studyType": "Federal teaching diploma",
-      "startDate": "1896-01-01",
-      "endDate": "1900-01-01",
-      "score": "",
-      "courses": [],
-      "highlights": ["Description 1.", "Description 2."]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "organization": "Bioengineers Without Borders, UW Seattle",
+      "position": "Engineering Design Member",
+      "startDate": "2024-10",
+      "highlights": [
+        "Design and execute materials strength tests for a transtibial amputation prosthetic for pediatric patients; interpret results against international ISO standards.",
+        "Create CAD prototypes and 3D-printed PLA testing setups for the prototyping sub-team.",
+        "Navigated funding constraints to meet all required test specifications; contributed to HIC competition submission.",
+        "Support the business and project-management side of engineering in addition to technical work."
+      ]
     },
     {
-      "title": "Max Planck Medal",
-      "date": "2029-01-01",
-      "awarder": "German Physical Society",
-      "summary": ""
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-location-dot"
+      "organization": "Virginia Mason Medical Center – Vascular Surgery",
+      "location": "Seattle, WA",
+      "position": "Clinical Volunteer",
+      "startDate": "2025-10",
+      "highlights": [
+        "Provide direct patient interaction in an active clinical environment; assist with patient transport and prioritize genuine human connection beyond task-based care.",
+        "Follow PPE and infection-control protocols including room sanitization; completed code response training."
+      ]
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-envelope"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrodynamik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "organization": "Shadowing Nephrologist – Nephrology & Transplant",
+      "location": "Seattle, WA",
+      "position": "Clinical Observer",
+      "startDate": "2026-02",
+      "highlights": [
+        "Observe transplant evaluations, rounding, and direct patient care in the ICU and dialysis clinic from the provider perspective.",
+        "Bring an informed patient lens as a kidney transplant recipient, deepening understanding of care for patients with ESRD and CKD.",
+        "Reading complex literature on kidney transplant immunology and clinical pathophysiology of renal disorders."
+      ]
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "name": "Wet Laboratory",
+      "keywords": ["SLA photopolymerization", "biocompatible polymer synthesis", "biopolymeric resin formulation", "sterile technique", "solution preparation", "cell culturing in agars", "micropipetting"]
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
+      "name": "CAD & Additive Manufacturing",
+      "keywords": ["Onshape (lattice and parametric modelling)", "SLA 3D printing (PDMS and resin)", "Arduino circuit design"]
+    },
+    {
+      "name": "Programming & Computing",
+      "keywords": ["C", "Java", "Microsoft Office Suite"]
+    },
+    {
+      "name": "Clinical",
+      "keywords": ["Clinical terminology", "patient transport", "PPE protocols", "room preparation and sanitization"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Team Captain – Science Olympiad",
+      "date": "2021-09",
+      "awarder": "Tri-Cities Preparatory High School, Pasco, WA",
+      "summary": "Led a STEM team managing coaching, meetings, club organization, and faculty communication. Designed and built engineering devices including an Arduino-based thermometer/salinometer and a complex launching mechanism."
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
-    },
-    {
-      "name": "Professor Jane Smith",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01"
+      "name": "Judo",
+      "keywords": ["Mental focus under pressure", "respectful competition", "Seattle WA, Sep 2025–Present"]
     }
   ]
 }
