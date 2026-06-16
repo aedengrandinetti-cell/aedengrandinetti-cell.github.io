@@ -9,7 +9,7 @@ nav_order: 7
 
 <div style="display: flex; align-items: center; gap: 2rem; margin-bottom: 3rem;">
   <img src="/assets/img/Borealis.jpeg" style="width: 45%; border-radius: 8px;">
-  <p>It's obvious that I love science, but I also love art, playing instruments, reading, and especially, nature! I love to take photos of nature, and back in the period of high solar flare activity, I took this picture of the aurora from my hometown in Eastern Washington. I love hiking in nature around the east side of the state, which is where I captured this photo. My favorite author has to be Cormac McCarthy — his prose and his books got me through my time on dialysis.</p>
+  <p>It's obvious that I love science, but I also love art, playing instruments, reading, and especially, nature! I love to take photos of nature and back in 2024, during a peak in solar activity, I took this picture of the aurora from my hometown in Eastern Washington. I love hiking in nature around the east side of the state, which is where I captured this photo. My favorite author has to be Cormac McCarthy — his prose and his books got me through my time on dialysis.</p>
 </div>
 
 <div style="display: flex; align-items: center; gap: 2rem; margin-bottom: 3rem; flex-direction: row-reverse;">
